@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157420175194",
+    "project_id": "ecam-flutter",
+    "storage_bucket": "ecam-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157420175194:android:192822458ba7e0df18bd63",
+        "android_client_info": {
+          "package_name": "com.example.ecam_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157420175194-6tvf8mnsa390k09vefqmar3qvupokrnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVINuxIeV6Lcc640YkHfnLTXdxbHmOwmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157420175194-6tvf8mnsa390k09vefqmar3qvupokrnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
